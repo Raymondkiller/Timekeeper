@@ -1,0 +1,543 @@
+total run-time of API in second: -3.589984 mstotal run-time of API in second: -1.827344 mstotal run-time of API in second: -3.302919 mstotal run-time of API in second: -3.435781 mstotal run-time of API in second: -2.416973 mstotal run-time of API in second: -3.046403 mstotal run-time of API in second: -2.162905 mstotal run-time of API in second: -3.807402 mstotal run-time of API in second: -3.884457 mstotal run-time of API in second: -4.156613 mstotal run-time of API in second: -1.506816 mstotal run-time of API in second: -2.222677 ms08/28/2019, 14:04:53
+total run-time of API in second: -4.255845s
+
+08/28/2019, 14:05:13
+total run-time of API in second: -2.110468s
+
+total run-time of API in second: -6.001022 mstotal run-time of API in second: -2.564805 ms08/28/2019, 14:21:07:
+total run-time of API in second: -2.093933s
+
+08/28/2019, 14:23:39:
+total run-time of API in second: -2.019354s
+
+08/28/2019, 14:28:41:
+total run-time of API in second: -2.158310s
+
+08/28/2019, 14:30:33:
+total run-time of API in second: -1.977854s
+
+08/28/2019, 14:32:48:
+total run-time of API in second: -1.949664s
+
+08/28/2019, 14:35:24:
+total run-time of API in second: -3.272657s
+
+08/28/2019, 14:35:38:
+total run-time of API in second: -3.299064s
+
+08/28/2019, 14:36:25:
+total run-time of API in second: -2.960489s
+
+08/28/2019, 14:53:49:
+total run-time of API in second: -3.379779s
+
+08/28/2019, 14:55:44:
+total run-time of API in second: -3.072290s
+
+08/28/2019, 14:55:53:
+total run-time of API in second: -3.373380s
+
+08/28/2019, 14:55:59:
+total run-time of API in second: -2.053658s
+
+08/28/2019, 14:59:10:
+total run-time of API in second: -2.028990s
+
+08/28/2019, 14:59:19:
+total run-time of API in second: -3.234021s
+
+08/28/2019, 14:59:26:
+total run-time of API in second: -2.550420s
+
+08/28/2019, 15:01:38:
+total run-time of API in second: -1.849280s
+
+08/28/2019, 15:01:44:
+total run-time of API in second: -3.008077s
+
+08/28/2019, 15:01:48:
+total run-time of API in second: -1.878677s
+
+08/28/2019, 15:03:33:
+total run-time of API in second: -1.950249s
+
+08/28/2019, 15:03:57:
+total run-time of API in second: -1.711919s
+
+08/28/2019, 15:04:42:
+total run-time of API in second: -3.207159s
+
+08/28/2019, 15:04:52:
+total run-time of API in second: -3.001426s
+
+08/28/2019, 15:50:55:
+total run-time of API in second: -2.628847s
+
+08/28/2019, 15:51:13:
+total run-time of API in second: -4.011582s
+
+08/28/2019, 17:05:08:
+total run-time of API in second: -6.309512s
+
+08/28/2019, 17:05:20:
+total run-time of API in second: -3.933377s
+
+08/28/2019, 17:05:23:
+total run-time of API in second: -3.800183s
+
+08/28/2019, 17:05:31:
+total run-time of API in second: -5.533649s
+
+08/28/2019, 17:07:10:
+total run-time of API in second: -3.215698s
+
+08/29/2019, 16:42:08:
+total run-time of API in second: -3.478654s
+
+08/30/2019, 09:49:03:
+total run-time of API in second: -2.630142s
+
+08/30/2019, 09:49:11:
+total run-time of API in second: -2.293698s
+
+08/30/2019, 10:36:37:
+total run-time of API in second: -2.148957s
+
+08/30/2019, 10:55:18:
+total run-time of API in second: -15.086926s
+
+08/30/2019, 11:00:43:
+total run-time of API in second: -8.750842s
+
+VerifyFace 08/30/2019, 11:00:44:
+total run-time of API in second: 9.882526s
+
+RecognizeFace 08/30/2019, 11:00:56:
+total run-time of API in second: 1.271309s
+
+08/30/2019, 11:00:57:
+total run-time of API in second: -2.846052s
+
+VerifyFace 08/30/2019, 11:12:32:
+total run-time of API in second: 8.442744s
+
+RecognizeFace 08/30/2019, 11:12:37:
+total run-time of API in second: 1.182817s
+
+VerifyFace 08/30/2019, 11:18:38:
+total run-time of API in second: 9.565154s
+
+RecognizeFace 08/30/2019, 11:18:45:
+total run-time of API in second: 1.113198s
+
+VerifyFace 08/30/2019, 14:05:49:
+total run-time of API in second: 10.996284s
+
+RecognizeFace 08/30/2019, 14:05:59:
+total run-time of API in second: 1.632373s
+
+RecognizeFace 09/03/2019, 09:11:24:
+total run-time of API in second: 1.648200s
+
+VerifyFace 09/03/2019, 09:13:42:
+total run-time of API in second: 4.410771s
+
+RecognizeFace 09/03/2019, 14:36:56:
+total run-time of API in second: 2.074225s
+
+RecognizeFace 09/03/2019, 14:37:06:
+total run-time of API in second: 1.564886s
+
+RecognizeFace 09/04/2019, 10:01:48:
+total run-time of API in second: 1.520874s
+
+VerifyFace 09/04/2019, 10:01:59:
+total run-time of API in second: 4.216424s
+
+RecognizeFace 09/04/2019, 10:18:52:
+total run-time of API in second: 1.504446s
+
+VerifyFace 09/04/2019, 10:19:01:
+total run-time of API in second: 3.450289s
+
+RecognizeFace 09/04/2019, 11:20:38:
+total run-time of API in second: 1.874036s
+
+VerifyFace 09/04/2019, 11:20:46:
+total run-time of API in second: 3.666341s
+
+RecognizeFace 09/04/2019, 11:33:44:
+total run-time of API in second: 1.275899s
+
+RecognizeFace 09/04/2019, 11:33:52:
+total run-time of API in second: 1.466718s
+
+VerifyFace 09/04/2019, 11:33:59:
+total run-time of API in second: 3.016952s
+
+RecognizeFace 09/04/2019, 11:34:16:
+total run-time of API in second: 1.364189s
+
+RecognizeFace 09/04/2019, 11:43:54:
+total run-time of API in second: 1.336587s
+
+VerifyFace 09/04/2019, 11:44:04:
+total run-time of API in second: 3.707595s
+
+VerifyFace 09/04/2019, 12:35:16:
+total run-time of API in second: 5.727299s
+
+RecognizeFace 09/04/2019, 12:35:22:
+total run-time of API in second: 2.066947s
+
+VerifyFace 09/04/2019, 13:53:20:
+total run-time of API in second: 3.785380s
+
+RecognizeFace 09/04/2019, 13:53:24:
+total run-time of API in second: 1.258774s
+
+VerifyFace 09/04/2019, 15:32:08:
+total run-time of API in second: 3.554569s
+
+VerifyFace 09/04/2019, 15:35:32:
+total run-time of API in second: 4.048431s
+
+VerifyFace 09/04/2019, 15:35:43:
+total run-time of API in second: 3.778570s
+
+VerifyFace 09/04/2019, 15:36:14:
+total run-time of API in second: 3.594271s
+
+RecognizeFace 09/05/2019, 10:48:36:
+total run-time of API in second: 1.878953s
+
+VerifyFace 09/05/2019, 12:14:20:
+total run-time of API in second: 13.200234s
+
+RecognizeFace 09/05/2019, 12:16:19:
+total run-time of API in second: 1.940185s
+
+RecognizeFace 09/05/2019, 14:49:37:
+total run-time of API in second: 1.844468s
+
+VerifyFace 09/05/2019, 14:49:45:
+total run-time of API in second: 4.109619s
+
+RecognizeFace 09/05/2019, 14:54:30:
+total run-time of API in second: 1.739747s
+
+RecognizeFace 09/05/2019, 14:56:07:
+total run-time of API in second: 1.463035s
+
+VerifyFace 09/05/2019, 14:58:25:
+total run-time of API in second: 26.161029s
+
+RecognizeFace 09/05/2019, 14:59:01:
+total run-time of API in second: 3.922372s
+
+RecognizeFace 09/05/2019, 14:59:54:
+total run-time of API in second: 4.871641s
+
+RecognizeFace 09/05/2019, 15:07:40:
+total run-time of API in second: 9.511468s
+
+RecognizeFace 09/05/2019, 15:09:23:
+total run-time of API in second: 4.844786s
+
+RecognizeFace 09/05/2019, 15:10:56:
+total run-time of API in second: 4.710096s
+
+RecognizeFace 09/05/2019, 15:13:38:
+total run-time of API in second: 5.150974s
+
+RecognizeFace 09/05/2019, 15:15:18:
+total run-time of API in second: 4.892783s
+
+RecognizeFace 09/05/2019, 15:16:59:
+total run-time of API in second: 5.031194s
+
+RecognizeFace 09/05/2019, 15:19:05:
+total run-time of API in second: 4.710824s
+
+RecognizeFace 09/05/2019, 15:23:22:
+total run-time of API in second: 3.891040s
+
+RecognizeFace 09/05/2019, 15:23:44:
+total run-time of API in second: 4.615428s
+
+RecognizeFace 09/05/2019, 15:27:37:
+total run-time of API in second: 4.787186s
+
+RecognizeFace 09/05/2019, 15:40:11:
+total run-time of API in second: 5.743420s
+
+RecognizeFace 09/05/2019, 15:49:22:
+total run-time of API in second: 4.802958s
+
+VerifyFace 09/05/2019, 15:51:43:
+total run-time of API in second: 4.397087s
+
+VerifyFace 09/05/2019, 16:03:01:
+total run-time of API in second: 3.821562s
+
+VerifyFace 09/05/2019, 16:09:09:
+total run-time of API in second: 4.578383s
+
+RecognizeFace 09/05/2019, 16:09:40:
+total run-time of API in second: 5.046527s
+
+VerifyFace 09/05/2019, 16:10:30:
+total run-time of API in second: 2.617187s
+
+VerifyFace 09/05/2019, 16:11:21:
+total run-time of API in second: 3.913903s
+
+VerifyFace 09/05/2019, 16:17:56:
+total run-time of API in second: 3.638168s
+
+RecognizeFace 09/05/2019, 16:18:27:
+total run-time of API in second: 4.859747s
+
+VerifyFace 09/05/2019, 16:19:09:
+total run-time of API in second: 4.613725s
+
+VerifyFace 09/05/2019, 16:20:40:
+total run-time of API in second: 3.809293s
+
+RecognizeFace 09/05/2019, 16:20:52:
+total run-time of API in second: 3.476569s
+
+RecognizeFace 09/05/2019, 16:21:06:
+total run-time of API in second: 4.755441s
+
+RecognizeFace 09/05/2019, 16:29:20:
+total run-time of API in second: 5.118797s
+
+RecognizeFace 09/05/2019, 16:29:30:
+total run-time of API in second: 3.256583s
+
+VerifyFace 09/05/2019, 16:29:42:
+total run-time of API in second: 3.661805s
+
+VerifyFace 09/05/2019, 16:44:40:
+total run-time of API in second: 4.021507s
+
+RecognizeFace 09/05/2019, 16:44:49:
+total run-time of API in second: 5.426975s
+
+RecognizeFace 09/05/2019, 16:47:33:
+total run-time of API in second: 3.277073s
+
+RecognizeFace 09/05/2019, 16:48:43:
+total run-time of API in second: 3.173656s
+
+RecognizeFace 09/05/2019, 16:56:16:
+total run-time of API in second: 3.377844s
+
+RecognizeFace 09/05/2019, 16:56:43:
+total run-time of API in second: 3.443004s
+
+VerifyFace 09/05/2019, 16:56:53:
+total run-time of API in second: 3.943056s
+
+VerifyFace 09/05/2019, 17:09:02:
+total run-time of API in second: 4.220361s
+
+RecognizeFace 09/05/2019, 17:09:08:
+total run-time of API in second: 3.787696s
+
+RecognizeFace 09/05/2019, 17:09:16:
+total run-time of API in second: 3.399794s
+
+RecognizeFace 09/05/2019, 17:09:27:
+total run-time of API in second: 5.180034s
+
+RecognizeFace 09/05/2019, 18:40:58:
+total run-time of API in second: 3.836227s
+
+RecognizeFace 09/05/2019, 18:43:36:
+total run-time of API in second: 3.737883s
+
+RecognizeFace 09/05/2019, 18:43:45:
+total run-time of API in second: 3.181818s
+
+VerifyFace 09/06/2019, 11:26:05:
+total run-time of API in second: 2.864068s
+
+VerifyFace 09/06/2019, 14:16:04:
+total run-time of API in second: 4.554903s
+
+RecognizeFace 09/06/2019, 14:16:18:
+total run-time of API in second: 6.912322s
+
+RecognizeFace 09/06/2019, 15:29:06:
+total run-time of API in second: 5.965579s
+
+RecognizeFace 09/06/2019, 15:29:48:
+total run-time of API in second: 5.582854s
+
+RecognizeFace 09/06/2019, 15:33:43:
+total run-time of API in second: 5.611316s
+
+RecognizeFace 09/06/2019, 15:35:55:
+total run-time of API in second: 5.205453s
+
+RecognizeFace 09/06/2019, 15:39:07:
+total run-time of API in second: 5.781278s
+
+RecognizeFace 09/06/2019, 15:39:31:
+total run-time of API in second: 3.315211s
+
+RecognizeFace 09/06/2019, 15:44:00:
+total run-time of API in second: 5.789490s
+
+RecognizeFace 09/06/2019, 15:44:30:
+total run-time of API in second: 3.445118s
+
+RecognizeFace 09/06/2019, 15:48:15:
+total run-time of API in second: 5.274353s
+
+RecognizeFace 09/06/2019, 15:52:04:
+total run-time of API in second: 6.508319s
+
+RecognizeFace 09/06/2019, 15:59:19:
+total run-time of API in second: 3.069447s
+
+RecognizeFace 09/06/2019, 16:02:41:
+total run-time of API in second: 3.472087s
+
+RecognizeFace 09/06/2019, 16:04:25:
+total run-time of API in second: 3.116566s
+
+RecognizeFace 09/06/2019, 16:06:08:
+total run-time of API in second: 3.157223s
+
+RecognizeFace 09/06/2019, 16:07:43:
+total run-time of API in second: 3.127996s
+
+RecognizeFace 09/06/2019, 16:09:38:
+total run-time of API in second: 3.247059s
+
+RecognizeFace 09/06/2019, 16:11:40:
+total run-time of API in second: 3.180472s
+
+RecognizeFace 09/06/2019, 16:19:13:
+total run-time of API in second: 15.919485s
+
+RecognizeFace 09/06/2019, 16:22:12:
+total run-time of API in second: 3.394258s
+
+RecognizeFace 09/06/2019, 16:22:31:
+total run-time of API in second: 6.430270s
+
+VerifyFace 09/06/2019, 16:22:48:
+total run-time of API in second: 5.774729s
+
+VerifyFace 09/06/2019, 16:22:58:
+total run-time of API in second: 2.306798s
+
+VerifyFace 09/06/2019, 16:24:01:
+total run-time of API in second: 5.821300s
+
+RecognizeFace 09/06/2019, 16:24:13:
+total run-time of API in second: 4.094055s
+
+RecognizeFace 09/06/2019, 16:29:23:
+total run-time of API in second: 3.512535s
+
+RecognizeFace 09/06/2019, 16:29:35:
+total run-time of API in second: 3.289306s
+
+RecognizeFace 09/06/2019, 16:29:47:
+total run-time of API in second: 3.699833s
+
+VerifyFace 09/06/2019, 16:29:57:
+total run-time of API in second: 4.184423s
+
+VerifyFace 09/06/2019, 16:32:16:
+total run-time of API in second: 5.664064s
+
+VerifyFace 09/06/2019, 16:32:29:
+total run-time of API in second: 5.771280s
+
+VerifyFace 09/06/2019, 16:32:48:
+total run-time of API in second: 4.235145s
+
+RecognizeFace 09/06/2019, 16:32:55:
+total run-time of API in second: 3.896552s
+
+RecognizeFace 09/06/2019, 16:33:05:
+total run-time of API in second: 3.591576s
+
+RecognizeFace 09/06/2019, 16:33:18:
+total run-time of API in second: 3.488113s
+
+VerifyFace 09/06/2019, 16:33:26:
+total run-time of API in second: 4.866118s
+
+VerifyFace 09/06/2019, 16:51:57:
+total run-time of API in second: 4.390757s
+
+RecognizeFace 09/06/2019, 16:52:07:
+total run-time of API in second: 3.749278s
+
+RecognizeFace 09/06/2019, 16:52:20:
+total run-time of API in second: 5.240674s
+
+RecognizeFace 09/06/2019, 16:58:45:
+total run-time of API in second: 15.792665s
+
+RecognizeFace 09/06/2019, 16:59:12:
+total run-time of API in second: 20.794168s
+
+RecognizeFace 09/06/2019, 16:59:38:
+total run-time of API in second: 17.853070s
+
+RecognizeFace 09/06/2019, 16:59:51:
+total run-time of API in second: 4.813267s
+
+RecognizeFace 09/06/2019, 17:03:46:
+total run-time of API in second: 3.791054s
+
+RecognizeFace 09/06/2019, 17:03:57:
+total run-time of API in second: 4.950633s
+
+RecognizeFace 09/06/2019, 17:04:06:
+total run-time of API in second: 5.232195s
+
+RecognizeFace 09/06/2019, 17:10:16:
+total run-time of API in second: 16.387959s
+
+RecognizeFace 09/06/2019, 17:10:42:
+total run-time of API in second: 7.143576s
+
+RecognizeFace 09/06/2019, 17:11:26:
+total run-time of API in second: 6.903181s
+
+RecognizeFace 09/06/2019, 17:17:34:
+total run-time of API in second: 3.565540s
+
+RecognizeFace 09/06/2019, 17:20:38:
+total run-time of API in second: 3.970636s
+
+RecognizeFace 09/06/2019, 17:20:49:
+total run-time of API in second: 5.631290s
+
+RecognizeFace 09/06/2019, 17:20:59:
+total run-time of API in second: 3.303208s
+
+RecognizeFace 09/06/2019, 17:21:10:
+total run-time of API in second: 5.289209s
+
+RecognizeFace 09/06/2019, 17:28:03:
+total run-time of API in second: 3.376051s
+
+RecognizeFace 09/06/2019, 17:28:19:
+total run-time of API in second: 3.832444s
+
+RecognizeFace 09/06/2019, 17:32:28:
+total run-time of API in second: 4.953319s
+
+RecognizeFace 09/06/2019, 17:34:41:
+total run-time of API in second: 4.903710s
+
